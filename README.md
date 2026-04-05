@@ -129,3 +129,7 @@ Runs on every `*.roblox.com` page. Uses exact CSS selectors derived from Roblox'
 ## Disclaimer
 
 This extension makes no changes to your actual Roblox account. It only modifies what you see in your browser using CSS/JS DOM manipulation. Refreshing the page without the extension active will show your real account data. Use it responsibly.
+
+## Changelog
+- V1.1.1 - Major bug fixes
+- V1.0.0 - first time seeing the sunlight
